@@ -8,6 +8,12 @@
 
 The final audit was performed on commit [eb93dbb0f62e2dc1b308ac4c110038062df0a8c9](https://github.com/safe-global/safe-contracts/tree/eb93dbb0f62e2dc1b308ac4c110038062df0a8c9).
 
+There has been one minor bugfix after the audit related to ERC-4337 compatibility:
+
+-   https://github.com/safe-global/safe-contracts/pull/572
+
+A change of similar scope has been successfully audited in the 1.4.0 release. Therefore, after notifying the auditors, we concluded no re-audit was necessary.
+
 ##### Files
 
 -   [Final Audit Report 1.4.0](Safe_Audit_Report_1_4_0.pdf)
